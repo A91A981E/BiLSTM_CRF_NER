@@ -13,6 +13,7 @@ This project is developed under Ubuntu 20.04 operating system, the main environm
 3.  Execute the specified command using the command line.
 
 #### Structure
+```
 D.
 │  .gitignore
 │  predict.py
@@ -42,3 +43,4 @@ D.
     │  resultCal.py
     │  str2bool.py
     └─ __init__.py
+```
